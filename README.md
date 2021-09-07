@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Alberto-Neri
-- 🎓 I'm a Bioengineer
-- 👀 I’m interested in robotics, AI, new technologies
-- 📫 Reach me at: alberto.neri96@gmail.com
 
 This repo is about some biomatematics exercises we did during university lectures
 
